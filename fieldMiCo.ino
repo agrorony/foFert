@@ -7,7 +7,7 @@ const char* mqtt_server = "your_MQTT_SERVER";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
-
+xasaxs
 void setup_wifi() {
   delay(10);
   // Connect to Wi-Fi
